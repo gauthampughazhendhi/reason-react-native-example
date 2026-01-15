@@ -4,7 +4,7 @@
   "private": true,
   "devDependencies": {
     "react-native-scripts": "1.14.0",
-    "jest-expo": "~27.0.0",
+    "jest-expo": "~54.0.16",
     "react-test-renderer": "16.3.1"
   },
   "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
@@ -32,7 +32,7 @@
     "helmet": "^3.13.0",
     "hpp": "^0.2.2",
     "morgan": "^1.9.0",
-    "razzle": "^2.4.0",
+    "razzle": "^4.2.18",
     "react": "^16.3.1",
     "react-dom": "^16.4.2",
     "react-native": "~0.55.2",
